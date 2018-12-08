@@ -4,9 +4,8 @@ email: michaelcan293@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   michael cantu is a graduate student in artificial intelligence at Northwestern University interested in Machine Learning and Computer Vision.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://amitadate.me/" # the base hostname & protocol for your site
-twitter_username: amitadate
-github_username:  amitadate
+url: "http://michaelcantu.me/" # the base hostname & protocol for your site
+github_username:  michaelcan2
 
 
 # Layout settings
